@@ -1,4 +1,4 @@
-# “WakeWake” 駕駛人睡意偵測警示系統
+# “Wake-Wake” 駕駛人睡意偵測警示系統
 
 Author:
 邱裕軒 Yuhsuan Chiu (https://github.com/yuxuankuu/)
