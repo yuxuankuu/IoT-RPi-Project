@@ -256,7 +256,7 @@ python3 app.py
 
 # 參考 References
 
-1. 梁藝鐘 Openvino with NCS2 ON Raspi-4 [https://hackmd.io/HV6hQ2PHSiWlrRsfxC10SA](https://hackmd.io/HV6hQ2PHSiWlrRsfxC10SA)
+1. **梁藝鐘 Openvino with NCS2 ON Raspi-4** [https://hackmd.io/HV6hQ2PHSiWlrRsfxC10SA](https://hackmd.io/HV6hQ2PHSiWlrRsfxC10SA)
 2. **基于opencv和shape_predictor_68_face_landmarks.dat的人脸识别监测** [https://blog.csdn.net/monster663/article/details/118341515](https://blog.csdn.net/monster663/article/details/118341515)
 3. **python dlib学习（十一）：眨眼检测** [https://blog.csdn.net/hongbin_xu/article/details/79033116](https://blog.csdn.net/hongbin_xu/article/details/79033116)
 4. **Connect the Camera Module** [https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/2](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/2)
