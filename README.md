@@ -75,6 +75,17 @@ Author:
 
 ![image.png](https://github.com/yuxuankuu/IoT-RPi-Project/blob/main/image/image_2.png)
 
+### 系統示意圖
+
+將樹莓派安裝在車內，使鏡頭面對駕駛人位置安裝在方向盤後方。
+
+![image.png](https://github.com/yuxuankuu/IoT-RPi-Project/blob/main/image/demo_1.jpg)
+
+偵測系統啟動時(綠色LED閃爍)並出現歡迎語"HELLO"，偵測系統運行中(綠色LED恆亮)。
+
+![image.png](https://github.com/yuxuankuu/IoT-RPi-Project/blob/main/image/demo_2.jpg)
+
+
 # 實作範例
 
 ## 1. 環境安裝
